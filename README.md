@@ -1,2 +1,2 @@
 # my-portfolio
-Hiring Manager, you will find some of my usual deliverables and proof of my technical trainings. 
+Hiring Manager, you will find some of my technical deliverables and proof of my hands-on experience and trainings. 
